@@ -1,6 +1,6 @@
 # pokeapp
 
-A new Flutter application.
+This is My First Flutter application.
 
 ## Getting Started
 
